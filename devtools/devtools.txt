@@ -1,0 +1,50 @@
+CALL SP
+=============
+call sp_producto('1');
+call laravelstoredprocedure.sp_producto(2);
+
+
+REFF LIBRARY PENDUKUNG LAINNYA :
+===================================
+https://github.com/mrblackus/laravel-storedprocedures
+https://github.com/3IE/laravel-storedprocedures
+
+REFF: 
+
+https://www.youtube.com/watch?v=B4p1vKHeIg8
+https://www.youtube.com/watch?v=LbRAI9ghD-s&t=121s
+
+https://gist.github.com/INDIAN2020/9038351
+
+http://stackoverflow.com/questions/19386962/laravel-eloquent-and-complex-relationships?rq=1
+
+http://forumsarchive.laravel.io/viewtopic.php?pid=21255
+
+http://stackoverflow.com/questions/20666490/laravel-4-mssql-stored-procedure-with-parameters-as-a-prepared-statements
+
+http://culttt.com/2013/08/05/extending-eloquent-in-laravel-4/
+
+http://www.blogosfera.co.uk/2013/08/pass-parameters-in-insert-query-stored-procedure-in-laravel-4/
+
+http://forumsarchive.laravel.io/viewtopic.php?pid=62851
+
+http://stackoverflow.com/questions/18379137/creating-mysql-procedure-in-laravel-4-migrations?rq=1
+
+http://stackoverflow.com/questions/18102537/pass-parameters-in-insert-query-stored-procedure-in-laravel-4
+
+http://www.seguetech.com/comment/reply/454
+
+http://stackoverflow.com/questions/8773508/jquery-isotope-centered-and-fluid-responsive
+
+http://www.9bitstudios.com/2013/04/jquery-isotope-tutorial/
+
+http://www.i-do-this.com/blog/using-jquery-isotope-for-masonry-in-fluid-layouts/57
+
+http://jsfiddle.net/desandro/P6JGY/6/
+
+
+http://codexc.com/blog/2013/10/laravel-4-multisingle-ajax-upload-validation/
+http://forumsarchive.laravel.io/viewtopic.php?id=11760
+http://crossplatform.net/validating-multiple-similar-forms-on-the-same-page/
+http://tutsglobal.com/topic/10-how-to-upload-a-image-in-laravel-4/
+http://jasonlewis.me/article/laravel-using-forms-and-the-validator
